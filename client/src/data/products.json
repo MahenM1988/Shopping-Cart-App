@@ -1,0 +1,20 @@
+[
+  { "id": 1, 
+    "name": "The Sokovia Accords", 
+    "price": 100, 
+    "available": 5, 
+    "image": "The Sokovia Accords.jpg"
+  },
+  { "id": 2, 
+    "name": "The Foster Theory - Space and Time Travel", 
+    "price": 200, 
+    "available": 5, 
+    "image": "The Foster Theory - Space and Time Travel.jpg" 
+  },
+  { "id": 3, 
+    "name": "Gamma Radiation - A Catalyst for Genetic Mutation and Cellular Regeneration", 
+    "price": 300, 
+    "available": 5, 
+    "image": "Gamma Radiation - A Catalyst for Genetic Mutation and Cellular Regeneration.jpg" 
+  }
+]
