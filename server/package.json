@@ -5,8 +5,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+  "nodejs",
+  "express",
+  "passport",
+  "stripe",
+]
+  "author": "Mahen Mahindaratne",
   "license": "ISC",
   "description": "",
   "dependencies": {
