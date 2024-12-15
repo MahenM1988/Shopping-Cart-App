@@ -7,7 +7,7 @@ import Cart from './components/Cart';
 import productsData from './data/products.json';
 import Login from './components/Login';
 
-const stripePromise = loadStripe('pk_test_51QI9dHDQGZMdMxYUxbStXWmPWdBBaVPoWtO5iCWimzpi7jDt2UPrVusfO0DaXRU4VJYMtn03frgDCiYgnGggD0tv00mHyPvkYR');
+const stripePromise = loadStripe('YOUR STRIPE PUBLIC KEY');
 
 const App = () => {
   const initialInventory = productsData.map(product => ({ ...product }));
