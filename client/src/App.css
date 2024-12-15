@@ -165,38 +165,38 @@ button:hover {
 /* Small screen adjustments (Tablets and Mobile) */
 @media (max-width: 1024px) {
   .product-item {
-    width: calc(50% - 30px); /* 2 items per row on tablets */
+    width: calc(50% - 30px); 
   }
 }
 
 @media (max-width: 768px) {
   nav {
-    flex-direction: column; /* Stack nav items vertically on smaller screens */
+    flex-direction: column; 
     text-align: center;
   }
 
   .product-item {
-    width: 100%; /* Full width for product items on small screens */
-    margin: 10px 0; /* Reduce margin between items */
+    width: 100%; 
+    margin: 10px 0; 
   }
 
   .cart-popup {
-    width: 90%; /* Make cart popup take up most of the screen width on mobile */
+    width: 90%; 
     top: 10%;
   }
 
   .cart-popup h3 {
-    font-size: 18px; /* Reduce title font size on mobile */
+    font-size: 18px;
   }
 
   .add-to-cart-button {
-    font-size: 16px; /* Adjust button size for mobile */
+    font-size: 16px; 
   }
 }
 
 @media (max-width: 480px) {
   .product-item {
-    width: 100%; /* Stack product items vertically on very small screens */
+    width: 100%; 
   }
 
   .cart-popup {
@@ -205,7 +205,7 @@ button:hover {
   }
 
   .cart-item img {
-    width: 40px; /* Smaller cart item images on small devices */
+    width: 40px; 
     height: 40px;
   }
 }
