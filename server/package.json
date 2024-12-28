@@ -9,10 +9,10 @@
   "nodejs",
   "express",
   "passport",
-  "stripe",
-]
+  "stripe"
+  ],
   "author": "Mahen Mahindaratne",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
